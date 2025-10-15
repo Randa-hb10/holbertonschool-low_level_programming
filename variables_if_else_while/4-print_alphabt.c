@@ -19,7 +19,6 @@ int main(void)
 			c++;
 			continue;
 		}
-		
 		putchar(c);
 		c++;
 	}
