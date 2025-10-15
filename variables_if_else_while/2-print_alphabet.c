@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* this program is to print alphabets in lowercase using putchar */
 
 int main(void)
 {
