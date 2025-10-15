@@ -1,6 +1,13 @@
 #include <stdio.h>
 
-/* this program is to print alphabets in lowercase using putchar */
+/**
+ * main - Entry point
+ *
+ * Description: 'the program prints the alphabets in lowercase using puchar'
+ * @parameter: no params rquired
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
