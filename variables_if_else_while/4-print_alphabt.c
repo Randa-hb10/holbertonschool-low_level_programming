@@ -3,8 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: 'the program prints the alphabets in lowercase excpet q and e  using puchar'
- *
+ * Description: 'the program prints the alphabets in lowercase except q and e'
  * Return: Always 0 (Success)
  */
 
