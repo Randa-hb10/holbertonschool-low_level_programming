@@ -3,14 +3,13 @@
 #include <time.h>
 
 /**
- * main - Entry point 
- *
- * Description: ' the program print all single digit numbers '
- * Return: Always 0 (success)
- */
-int main (void)
-{ 
-
+* main - Entry point 
+*
+* Description: ' the program print all single digit numbers '
+* Return: Always 0 (success)
+*/
+int main(void)
+{
 	int c = '0';
 
 	while (c <= '9')
@@ -18,8 +17,7 @@ int main (void)
 		printf("%c", c);
 		c++;
 	}
-	printf ("\n");
-	return (0);
-	
+	printf("\n");
+	return(0);
 } 
 
