@@ -9,8 +9,8 @@
  *
  * Return: Always 0 (success)
  */
-int main (void)
-{
+ int main (void)
+ { 
 	int c = '0';
 	while (c <= '9')
 	{
@@ -19,5 +19,5 @@ int main (void)
 	}
 	printf ("\n");
 	return (0);
-}
+ } 
 
