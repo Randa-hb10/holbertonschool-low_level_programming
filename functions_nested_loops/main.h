@@ -14,7 +14,7 @@ int print_last_digit(int n);
 int _putchar(char c);
 int add(int a, int b);
 int add(int a, int b);
-void print_to_98(it n)
+void print_to_98(int n)
 	;
 #endif /* MAIN_H */
 
