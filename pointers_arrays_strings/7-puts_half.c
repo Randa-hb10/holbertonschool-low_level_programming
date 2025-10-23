@@ -31,6 +31,6 @@ else
 i = (len + 1) / 2;
 
 for (; i < len; i++)
-putchar(str[i]);
-putchar('\n');
+_putchar(str[i]);
+_putchar('\n');
 }
