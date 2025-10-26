@@ -10,12 +10,12 @@ for (i = 0; s[i]; i++)
 {
 for (j = 0; letters[j]; j++)
 {
-if (s[i] == letters[j]) 
+if (s[i] == letters[j])
 {
 s[i] = rot13_letters[j];
 break;
 }
 }
 }
-return s;
+return (s);
 }
