@@ -1,6 +1,14 @@
 #include <string.h>
 #include <stdlib.h>
 
+/**
+ * string_nconcat - concatenates s1 with first n bytes of s2
+ * @s1: first string (may be NULL -> treated as "")
+ * @s2: second string (may be NULL -> treated as "")
+ * @n:  number of bytes to take from s2
+ *
+ * Return: pointer to newly allocated string, or NULL on failure
+ */
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {
 char *concat;
