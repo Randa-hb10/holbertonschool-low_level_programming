@@ -1,6 +1,13 @@
 #include "3-calc.h"
 #include <stdlib.h>
 #include <stdio.h>
+/**
+ * main - performs simple operations
+ * @argc: number of arguments
+ * @argv: array of arguments
+ *
+ * Return: 0 on success, exits with 98, 99, or 100 on error
+ */
 
 int main(int argc, char *argv[])
 {
