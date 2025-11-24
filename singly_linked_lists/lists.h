@@ -5,6 +5,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+/**
+ * struct list_s - singly linked list node
+ * @str: string stored in the node
+ * @len: length of the string
+ * @next: pointer to the next node
+ *
+ * Description: singly linked list node structure used in
+ * the project to store strings and their length.
+ */
 
 typedef struct list_s
 {
